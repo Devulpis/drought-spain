@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Drought in Spain
+El propósito de esta página web es concienciar al pueblo español de la situación de sequía por la que se está pasando en este nuestro país.
 
-You can use the [editor on GitHub](https://github.com/Devulpis/drought-spain/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Edición multimedia
+Para ello, se pretenden realizar varias técnicas de edición de audio, fotografía y vídeo que nos lo permitan.
+### Audio
+Para este apartado he hecho uso de la herramienta `Adobe Audition 2014 CC`.
+He extraído un fragmento de 59 segundos de la pista de audio _Sad day_ de [esta página](https://www.bensound.com/index.php?route=product/search&search=sad). Posteriormente he invertido los últimos segundos para dar a entender que no hay una vuelta atrás, una vez hemos derrochado el agua del que disponemos.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Fotografía
+Para este otro
+### Vídeo
+1. Eliminar algo con el tampón de clonar (Desierto).
+	Herramienta empleada: Photoshop
+	Explicación: Eliminadas dos personas que había situadas sobre la duna y delante de la misma..
+2. Potenciar el dramatismo (sequia1)
+	Herramienta empleada: Photoshop
+	Explicación: El color pasa a estar comprendido en una escala de grises y se aumentan el contraste y la nitidez, todo ello
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Devulpis/drought-spain/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+3. Modificar el color de una imagen (sequia2).
+	Herramienta empleada: Photoshop
+	Explicación: Color blanco y negro y aumento del contraste para potenciar el dramatismo
+Créditos
+Audio extraído de: https://www.bensound.com
+Efecto aplicado: Recorte, reducción de dB y reverse para representar que no hay vuelta atrás.
